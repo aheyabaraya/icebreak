@@ -1,0 +1,7 @@
+﻿{
+  "files.eol": "\n",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "Dart-Code.dart-code",
+  "dart.flutterSdkPath": "${workspaceFolder}\\tooling\\flutter",
+  "dart.lineLength": 100
+}

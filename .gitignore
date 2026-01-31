@@ -1,0 +1,39 @@
+﻿# Flutter/build
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.dart_tool/
+.packages
+
+# Local tooling (do not commit SDK zips/SDK folders)
+flutter/
+tooling/
+flutter_windows_*.zip
+
+# Environment
+.env
+
+# App env asset (optional local file)
+apps/mobile/assets/.env
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# VSCode (commit settings.json)
+.vscode/*
+!.vscode/settings.json
+
+# Android
+**/local.properties
+**/*.iml
+
+# Generated code
+*.g.dart
+
+# Debug leftovers
+flutter_version.out
+flutter_version.err
+
